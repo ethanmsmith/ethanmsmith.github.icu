@@ -3,12 +3,12 @@
     "name": "Ethan Smith",
     "label": "Software Engineer",
     "picture": "",
-    "email": "resume@ethansmith.io",
-    "website": "https://ethansmith.io",
-    "summary": "Software engineer looking to gain as much experience and knowledge that I can. My interests include open source software development, frontend and middletier programming, and designing practical user applications. My passion is education and knowledge. I love to teach and learn as much as possible and want to provide opportunities to everyone to do the same.",
+    "email": "contact@ethansmith.io",
+    "website": "ethansmith.io",
+    "summary": "Passionate Software engineer with 3+ years of experience working on a variety of systems in highly regulated industries. My passion is education and the free sharing of knowledge and I am eager to apply that passion to my career. I love to teach and broaden my knowledge and want to provide opportunities for everyone to do the same.",
     "location": {
-      "address": "1 Ledge Dr",
-      "postalCode": "05641",
+      "address": "",
+      "postalCode": "",
       "city": "Barre Town",
       "countryCode": "US",
       "region": "Vermont"
@@ -18,6 +18,11 @@
         "network": "Github",
         "username": "ethanmsmith",
         "url": "https://github.com/ethanmsmith"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ethansmith2295",
+        "url": "https://www.linkedin.com/in/ethansmith2295"
       }
     ]
   },
@@ -26,54 +31,72 @@
       "company": "Fidelity Investments",
       "position": "Software Engineer",
       "website": "https://fidelity.com",
+      "location": "Merrimack, NH - Remote",
       "startDate": "2017-09-11",
-      "endDate": "",
-      "summary": "I work on the company's intranet and lo-code development platform. I support end users and automate miscellanious administrative tasks.",
+      "endDate": "Present",
+      "summary": "Develop solutions on and administer the enterprise SharePoint and Power Platform SaaS offerings",
       "highlights": [
-        "Joined the company in 2017 as a LEAP candidate and now work as a software engineer on a small team of 4 developers."
+        "Facilitate monthly tech forums for off-shore and on-shore teams to connect on technical concepts",
+        "Host daily office hours to troubleshoot users' issues and advise on best practices for SharePoint use and development",
+        "Refined my skills in Angular, Agile, Transact SQL, and Java Spring as a LEAP candidate",
+        "Mentored and provided technical guidance for interns",
+        "Served as my scrum team's interim scrum master for 1 year while still performing daily development tasks",
+        "Created self service solutions with React and Microsoft's SPFx framework",
+        "Implemented a more secure credential protocol for automated PowerShell scripts",
+        "Automated multiple processes to ensure SEC Rule 17a-4(f) compliance"
       ]
     },
     {
       "company": "Charles River Investments",
       "position": "Softare Engineer, Intern",
       "website": "https://crd.com",
-      "startDate": "2015-05-01",
-      "endDate": "2015-08-31",
-      "summary": " I was placed into a team and given the responsibilities of any other team member. I used scrum practices to complete everything from performance testing and code reviewing to code fixing and developing customer requested features. While at Charles River, I managed to add several key features of functionality to the product as well as clean up and fix inefficient code."
+      "location": "Burlington, MA",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-31",
+      "summary": "Worked in an Agile scrum team to perform daily development tasks",
+      "highlights":[
+        "Utilized TDD to identify bugs and refactor Forex order processing code, increasing efficiency by 300%",
+        "Updated the Forex order form and order processing capabilities according to user feedback"
+      ]
     },
     {
       "company": "iD Tech",
       "position": "Counselor",
       "website": "https://idTech.com",
+      "location": "Lowell, MA",
       "startDate": "2015-06-01",
       "endDate": "2015-08-31",
-      "summary": "I taught computer science core concepts to high school students.",
+      "summary": "Instructed upcoming and current high school students in core computer science concepts",
       "highlights": [
-        "I was recognized as a top performing counselor and offered a job for the following summer."
+        "Organized camp wide recreation",
+        "Recognized as one of the top 5% performing counselors nationwide"
       ]
     },
     {
       "company": "U.S. Soccer Federation",
       "position": "Referee",
       "website": "https://www.ussoccer.com/",
+      "location": "Central/Northeast, MA",
       "startDate": "2008-02-01",
-      "endDate": "2019-06-31",
-      "summary": "Refereed youth town and club soccer for U8 through U18."
+      "endDate": "2019-06-30",
+      "summary": "Refereed town and club youth soccer for age groups U8 through U18"
     },
     {
       "company": "Fraen Corporation",
-      "position": "Quality Control",
+      "position": "Quality Control Engineer",
       "website": "https://www.fraen.com/",
+      "location": "Woburn, MA",
       "startDate": "2014-06-01",
       "endDate": "2014-08-31",
-      "summary": " Checking pieces from machines to ensure compliance with specific automobile and aerospace industry standards using hand tools and TESA Scans."
+      "summary": "Scrutinized pieces from machines to ensure compliance with stringent automobile and aerospace industry standards"
     }
   ],
   "volunteer": [
     {
       "organization": "Danvers Youth Soccer",
       "position": "Coach",
-      "website": "http://organization.com/",
+      "website": "http://dys.org/",
+      "location": "Danvers, MA",
       "startDate": "2013-04-01",
       "endDate": "2013-06-01",
       "summary": "Assistant soccer coach for girls U14 soccer team. I ran drills during practice and managed the team during games."
@@ -82,23 +105,25 @@
   "education": [
     {
       "institution": "University of Massachusetts, Amherst",
-      "area": "Computer Science, Software Engineering",
+      "area": "BSc Computer Science, Software Engineering",
+      "location": "Amherst, MA",
       "studyType": "Bachelor of Science",
       "startDate": "2013-09-01",
       "endDate": "2017-06-01",
-      "gpa": "4.0",
+      "gpa": "3.45",
       "courses": [
+        "Software Engineering",
+        "Software Engineering: Synthesis and Development",
+        "Software Engineering: Project Management",
         "Computer System Principles",
         "Information Systems",
         "Introduction to Algorithms",
         "Introduction to Computation",
-        "Introduction to Computer Graphics",
         "Network Systems",
         "Programming Methodology",
         "Programming with Data Structures",
         "Reasoning About Uncertainty",
-        "Software Engineering",
-        "Software Engineering: Synthesis and Development",
+        "Discrete Mathamatics",
         "Web Programming",
         "iOS Programming"
       ]
@@ -106,19 +131,19 @@
   ],
   "awards": [
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "website": "http://publication.com",
-      "summary": "Description..."
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     }
   ],
   "skills": [
@@ -126,10 +151,35 @@
       "name": "Web Development",
       "level": "Proficient",
       "keywords": [
+        "React",
+        "Angular",
+        "NodeJS",
+        "gulp",
         "HTML",
-        "CSS",
+        "CSS/Sass"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "keywords": [
+        "PowerShell",
+        "TypeScript",
         "Javascript",
-        "TypeScript"
+        "C#",
+        "Java",
+        "PL/SQL",
+        "MSSQL"
+      ]
+    },
+    {
+      "name":"Technical Skills",
+      "level":"Proficient",
+      "keywords": [
+        "git",
+        "perforce",
+        "Test driven development",
+        "Process automation"
       ]
     }
   ],
@@ -163,15 +213,15 @@
     {
       "name": "Frisbee",
       "keywords": [
-        "Ultimate",
-        "Disc"
+        "Ultimate Disc",
+        "Disc Golf"
       ]
     },
     {
       "name": "Music",
       "keywords": [
-        "Classic",
-        "Rock"
+        "Classic Rock",
+        "Rock n' Roll"
       ]
     },
     {
