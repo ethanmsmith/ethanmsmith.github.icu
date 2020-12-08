@@ -1,0 +1,23 @@
+article.recipe-content {
+    margin: 30px;
+  header {
+    h1 {
+      color: rebeccapurple !important;
+    }
+  }
+
+  .recipe-body {
+    display: flex;
+    flex-direction: row;
+
+    .recipe-text {
+      flex: 1;
+      margin: 15px;
+    }
+
+    .recipe-images {
+      flex: 1;
+      margin: 15px;
+    }
+  }
+}

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="recipe-content">
+    <header>
+        <h1>Recipe: {{ page.title }}</h1>
+    </header>
+
+    <div class="recipe-body">
+        <div class="recipe-text">
+            {{ content }}<br />
+        </div>
+        <div class="recipe-images">
+            <img src="/assets/images{{ page.url | relative_url }}-ingredients.jpg" />
+        </div>
+    </div>
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: recipe
 title: "Whole Wheat Vegan Cherry Muffins"
 categories: baking muffins
 ---
+# About
+Vegan, nut free, as healthy as baked goods can be, muffins.
+Original recipe taken from [My Plant Based Family](https://myplantbasedfamily.com/2012/03/29/whole-wheat-cherry-muffins/)
 
-### Ingredients
+# Ingredients
     2 cups organic whole wheat flour
     1 tsp baking powder
     ½ tsp baking soda
