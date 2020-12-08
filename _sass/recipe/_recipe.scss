@@ -1,5 +1,5 @@
 article.recipe-content {
-    margin: 30px;
+  margin: 30px;
   header {
     h1 {
       color: rebeccapurple !important;
@@ -9,6 +9,7 @@ article.recipe-content {
   .recipe-body {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 
     .recipe-text {
       flex: 1;
@@ -18,6 +19,10 @@ article.recipe-content {
     .recipe-images {
       flex: 1;
       margin: 15px;
+    }
+
+    img {
+      min-width: 200px;
     }
   }
 }
