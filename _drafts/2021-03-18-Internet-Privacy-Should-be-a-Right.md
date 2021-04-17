@@ -13,3 +13,5 @@ Qubes OS
 
 Apple doing good
 Google not so good
+
+Struggle of setting up vpn router
