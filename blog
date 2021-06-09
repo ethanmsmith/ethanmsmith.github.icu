@@ -1,0 +1,17 @@
+#!/bin/bash
+if [ $1 == 'new' ]
+then
+postDate=$(date +'%Y-%m-%d')
+file="./_drafts/$postDate-$2.md"
+# Janky workaround to get printf to work with the leading hyphens. Without the leading character, 
+# printf will give the error "printf: --: invalid option"
+printf "%s---\\nlayout: post\\ntitle: \"%s\"\\ndate: %s\ncategories: %s\\npermalink: :slug\\n---" "" $2 $(date +"%Y-%m-%d") $2 >> $file
+codium $file
+fi
+
+if [ $1 == 'start' ]
+then
+bundle exec jekyll serve $2
+fi
+
+exit
