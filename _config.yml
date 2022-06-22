@@ -27,7 +27,7 @@ url: "https://ethansmith.io" # the base hostname & protocol for your site, e.g. 
 github_username:  ethanmsmith
 
 # Build settings
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "cotes2020/jekyll-theme-chirpy"
 plugins:
   - jekyll-feed
 
